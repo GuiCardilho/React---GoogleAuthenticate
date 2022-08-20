@@ -14,3 +14,6 @@ npx vite --host
 ```
 
 ### ***Utilizar a URL local para acessar o site***
+
+
+### Site hospedado na URL: https://guicardilho.github.io/React---GoogleAuthenticate/
